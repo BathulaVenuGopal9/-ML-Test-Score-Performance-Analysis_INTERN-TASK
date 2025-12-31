@@ -1,10 +1,13 @@
-# Project Overview
+# ML Test Score Performance Analysis
+
+
+## Project Overview
 
 This project presents a comprehensive analysis of machine learning test scores across multiple batches. The objective is to evaluate performance trends, identify consistency levels, and derive meaningful insights that support data-driven academic decision-making.
 
 The analysis follows a real-world exploratory data analysis (EDA) workflow, similar to performance evaluation scenarios in educational and training environments.
 
-# Problem Statement
+## Problem Statement
 
 Given student test scores (out of 7) from three different batches:
 
@@ -18,7 +21,7 @@ Identify strengths and improvement areas
 
 This is an open-ended analytical task focused on interpretation and insight generation.
 
-# Dataset Description
+## Dataset Description
 
 Batch – Represents the batch name
 
@@ -28,7 +31,7 @@ Score – Test score ranging from 0 to 7
 
 Each record corresponds to an individual student’s test performance.
 
-# Methodology
+## Methodology
 
 The following steps were performed:
 
@@ -42,7 +45,7 @@ Comparative batch performance evaluation
 
 Performance segmentation (Low, Medium, High)
 
-# Key Insights
+## Key Insights
 
 Distinct performance patterns were observed across batches
 
@@ -54,7 +57,7 @@ A batch with lower scores indicated the need for focused academic support
 
 Greater consistency was associated with improved overall performance
 
-# Business & Academic Impact
+## Business & Academic Impact
 
 Enables targeted mentoring and intervention strategies
 
@@ -64,7 +67,7 @@ Helps identify high-performing students for advanced learning paths
 
 Provides a scalable framework for academic performance analysis
 
-# Tools & Technologies
+## Tools & Technologies
 
 Python
 
